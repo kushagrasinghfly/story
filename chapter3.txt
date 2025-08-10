@@ -1,1 +1,2 @@
 Hello this is the chapter 3 of learning git and GitHub.
+And currently we're studying Branching.
